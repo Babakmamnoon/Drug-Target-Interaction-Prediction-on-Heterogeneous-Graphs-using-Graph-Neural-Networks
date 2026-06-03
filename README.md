@@ -5,7 +5,7 @@
 [![PyTorch Geometric](https://img.shields.io/badge/PyG-2.x-3C78D8)](https://pyg.org/)
 [![RDKit](https://img.shields.io/badge/RDKit-2024-lightgrey)](https://www.rdkit.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18GwTTIiTozvVw4e1jbSVjC4VJWPB4Rlr)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Babakmamnoon/Drug-Target-Interaction-Prediction-on-Heterogeneous-Graphs-using-Graph-Neural-Networks/blob/main/DTI_GNN_BioSNAP.ipynb)
 
 ---
 
