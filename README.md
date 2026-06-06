@@ -258,7 +258,7 @@ Click the **Open in Colab** badge at the top of this README. All dependencies in
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/dti-gnn-biosnap.git
+git clone https://github.com/Babakmamnoon/dti-gnn-biosnap.git
 cd dti-gnn-biosnap
 
 # Install dependencies
